@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+salud_predictiva.db
+.streamlit/secrets.toml
